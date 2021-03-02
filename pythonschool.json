@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pythonschool-298112",
+  "private_key_id": "e3522d71a44a1971b6110768fb4bb43270836a47",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7vaIGv3yZmB+R\nI+jge3KeEs//ormcW6OuoS1pZzHpJd6dGCd5Vg67QwKW4OOxtfrfYko46XdzXuxD\nYeq/Tm9w0jTrMWEU/cvbOkPcyDRXWRaRLUEX3SsDigJYrfm+H1+gLqihiTcwpn8N\nh0gFh7A/TPv/7ZM3IEHhr5xXguuz7y2pRWq07oLk2L9UOc2Erzq0E/97+19cuf62\nDYkwZrYmljiVP2xTBdUptQvQS/D2rGAAEaJ2NzuImgl7kLv52Eo/IxPG1SogUPAk\niRFKLjtYnF3LGhpbVXcNisXAi9VLFqUN3erPiJgqronAKMuwqaf1aOvnxzosllIa\ny7ZJHrpJAgMBAAECggEACkJZs5wZYnyDvEoykR9qpLgeQd4+3b9lb+1vdL/5yoxS\nIGwjLntYUPDF/ozpus3ZGJ9SszTeEEg17/uBuPq/yaU31OLJzW+OPGIjadHoIYSe\nrS53mdnxRLKKrOIaiije8GFsWW6mo4cNqiV9qloYwWf8qcBUfm6Wuw7+I6Tlw9s5\nQI1q51EHSBAHQk3n5sd0W405a7Ef8roajSaSJe9P0Iy3RkHmrCL2YqqAOOoA3DHj\nYFVS12aTogUeVoKuavnGCUu3gawiwHmHgorpvyK3WVQ5bLzQuhJj/sW6PocolNfh\nxhQFPLHIUg+YY4nvy2jG+ZvRcyIEMPtChO+YpllGAwKBgQDgHzcMERRT5W5uiC1r\n6P2iwctJNn9RTkgAprt4j4017WAfAw8mpx1PzGyhYW7Bh75KA7/1NhWxRx0Pnuqt\nACfKaeXIaotoSNshJm5kbLpH8F+3jf9odk4NzR0JjowZqVs8r04eUq1R+TydjYxk\nuFV4YsK1dCVvEdCySTdoAuj58wKBgQDWcbJ0HjpXhZDOrrM/2vHL4pZ4+V3qQRu6\nnpOvlyx7NUq6XZJ1UaqYGuQXTEWWU0NLhGvtSjVwON7yGMrn2VR41kd+qDTh8ZL1\nzz7ukXZurrpGoGP3iKL84xBXmBjbvAElDNJtLAervOueL74gEDaQjAJQSfeiiAPQ\nXq1nfXMt0wKBgQCPKYFZNOO+P5UOB/CzuI2j1JTNPIGRZya5O8gO1+vE4c9/n82i\nzCb+HT/aykkcWGBmGQUaVqT+q8VVgBa50ZqZQpHkNqK8R6WqBEmJ3qYTY+lQb+UR\nTljHmhkNTMATeEnudrC4z+kkrsdYgN2ITPNTxgpILFvpGgEskXZR+2HknwKBgQCa\nQPLjABNrfZJqedRKrI2d4YHnx0i9BtSRaxxFBHNktTLp2AFQDsyt2ToVYDH2LjKM\nEdcou2axMNd+QkNCf1x6B3kqLIjNtl3GH6vfJBeTCnDH+PuvxUOosRTCTZAkD5qr\nMgvzp+ZkrOK3yRP0MHVviKbpZiuRaFGGA3Ssqtq9LQKBgC0NH8erzlrkLH/n2yH3\nB08mqSVpNXyUsgUoYsyUIroMJgb0SViVLiPiJP954eq9kA2BBaE0xXGzJps8uueo\n8Gm1v2kgmdxPlV5q8NL4oz68Li7z9Oy8pH/LAGeYx3MvyRlNylJoxDGui1rRAb8j\nM4SK/HW6sStlVKqsO1grbrwT\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonschool@pythonschool-298112.iam.gserviceaccount.com",
+  "client_id": "103359117087847938857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonschool%40pythonschool-298112.iam.gserviceaccount.com"
+}

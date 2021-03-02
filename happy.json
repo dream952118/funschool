@@ -1,0 +1,79 @@
+{
+  "type": "bubble",
+  "direction": "ltr",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "今天心情還好嗎?",
+        "size": "lg",
+        "align": "center",
+        "contents": []
+      },
+      {
+        "type": "separator"
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "分享一下你的心情吧!",
+        "align": "center",
+        "contents": []
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "開心",
+          "text": "開心"
+        },
+        "color": "#64E53FFF",
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "難過",
+          "text": "難過"
+        },
+        "color": "#3FB6E5FF",
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "生氣",
+          "text": "生氣"
+        },
+        "color": "#F8B65AFF",
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "疲憊",
+          "text": "疲憊"
+        },
+        "color": "#675050FF",
+        "margin": "xs",
+        "style": "primary"
+      }
+    ]
+  }
+}
